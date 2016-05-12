@@ -4,8 +4,8 @@
 // @namespace https://github.com/gunmaden/steammarketplace-price-averager
 // @description  Takes the average of the last 20 items sold of the current item
 // @match http://steamcommunity.com/market/*
-// @updateURL https://raw.githubusercontent.com/gunmaden/steammarketplace-price-averager/master/scriptFolder/avgPricesScript.js
-// @downloadURL https://raw.githubusercontent.com/gunmaden/steammarketplace-price-averager/master/scriptFolder/avgPricesScript.js
+// @updateURL https://raw.githubusercontent.com/gunmaden/steammarketplace-price-averager/master/scriptFolder/avgPricesScript.user.js
+// @downloadURL https://raw.githubusercontent.com/gunmaden/steammarketplace-price-averager/master/scriptFolder/avgPricesScript.user.js
 // @require    http://code.jquery.com/jquery-latest.js
 // @run-at document-end
 // @copyright  2016, Gunmaden
