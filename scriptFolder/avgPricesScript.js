@@ -1,9 +1,13 @@
 // ==UserScript==
-// @name       SteamMarketplace Price Averager
-// @version    1.0
+// @name       SteamMarketplacePriceAverager
+// @version    1.1
+// @namespace https://github.com/gunmaden/steammarketplace-price-averager
 // @description  Takes the average of the last 20 items sold of the current item
-// @include      http://steamcommunity.com/market/*
+// @match http://steamcommunity.com/market/*
+// @updateURL https://raw.githubusercontent.com/gunmaden/steammarketplace-price-averager/master/scriptFolder/avgPricesScript.js
+// @downloadURL https://raw.githubusercontent.com/gunmaden/steammarketplace-price-averager/master/scriptFolder/avgPricesScript.js
 // @require    http://code.jquery.com/jquery-latest.js
+// @run-at document-end
 // @copyright  2016, Gunmaden
 // ==/UserScript==
 $(document).ready(function () {
