@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name       SteamMarketplacePriceAverager
+// @name       SteamMarketplace.PriceAverager
 // @version    1.1
 // @namespace https://github.com/gunmaden/steammarketplace-price-averager
 // @description  Takes the average of the last 20 items sold of the current item
